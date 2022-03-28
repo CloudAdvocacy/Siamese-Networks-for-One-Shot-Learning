@@ -9,9 +9,6 @@ from tensorflow.keras.optimizers import SGD
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.regularizers import l2
 
-
-import matplotlib.pyplot as plt
-import matplotlib.gridspec as gridspec
 import numpy as np
 
 from omniglot_loader import OmniglotLoader

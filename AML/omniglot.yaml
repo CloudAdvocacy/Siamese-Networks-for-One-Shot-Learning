@@ -1,0 +1,4 @@
+$schema: https://azuremlschemas.azureedge.net/latest/dataset.schema.json
+name: omniglot
+description: Omniglot dataset.
+local_path: '../Omniglot Dataset'
